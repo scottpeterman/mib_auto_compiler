@@ -1,0 +1,14 @@
+certifi>=2025.7.14
+charset-normalizer>=3.4.2
+idna>=3.10
+Jinja2>=3.1.6
+MarkupSafe>=3.0.2
+ply>=3.11
+pyasn1>=0.6.1
+pysmi>=1.6.2
+pysnmp>=7.1.21
+pytest>=8.4.1
+PyYAML>=6.0.2
+requests>=2.32.4
+urllib3>=2.5.0
+wheel>=0.45.1
